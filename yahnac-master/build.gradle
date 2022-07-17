@@ -30,7 +30,7 @@ allprojects {
         mavenCentral()
         jcenter()
         maven {
-            url "http://dl.bintray.com/novoda/maven"
+            url "https://dl.bintray.com/novoda/maven"
         }
         google()
     }
